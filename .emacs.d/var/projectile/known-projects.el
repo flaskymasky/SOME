@@ -1,0 +1,1 @@
+("~/SOME/" "~/" "~/KING/" "~/.emacs.d/" "~/tt/TEST/" "~/GIT2/" "~/GIT_TEST/" "~/REPO1/")
